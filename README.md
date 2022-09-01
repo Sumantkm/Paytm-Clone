@@ -16,4 +16,4 @@
 
 ***
 ## Screenshot :
-![Paytm Project Image](./Project-Screenshots/Paytm-hero-page.Png)
+![Paytm Project Image](./Project-Screenshots/Paytm-Hero-page.PNG)
