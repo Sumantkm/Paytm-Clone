@@ -1,12 +1,10 @@
-# Paytm-Clone
+# Paytm-Clone - [Link](https://paytm1clone.netlify.app/)
 
 ![Ineuron & LCO](https://img.shields.io/badge/Ineuron-LCO-brightgreen) 
 ![Ineuron & LCO](https://img.shields.io/badge/Hitesh%20Coudhary-Full--stack--JS--bootcamp-brightgreen)
 <br>
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-brightgreen)
 ![Tailwind css](https://img.shields.io/badge/Tailwind-css-yellowgreen)
-***
-## Project : [Link](https://paytm1clone.netlify.app/)
 ***
 
 ## Skills learnt :
