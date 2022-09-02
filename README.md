@@ -5,6 +5,9 @@
 <br>
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-brightgreen)
 ![Tailwind css](https://img.shields.io/badge/Tailwind-css-yellowgreen)
+***
+## Project link : [Link](https://paytm1clone.netlify.app/)
+***
 
 ## Skills learnt :
 - Designing using  **Tailwindcss** by reading through the docs with minimal or no usage of **Css**. 
