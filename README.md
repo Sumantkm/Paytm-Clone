@@ -15,5 +15,10 @@
 - 12+ hours to complete this project. (Worth the time spent, Great learning!!!)
 
 ***
-## Screenshot :
+## Project screenshot(few) :
 ![Paytm Project Image](./Project-Screenshots/Paytm-Hero-page.PNG)
+![Paytm Project Image](./Project-Screenshots/2.PNG)
+![Paytm Project Image](./Project-Screenshots/3.PNG)
+![Paytm Project Image](./Project-Screenshots/4.PNG)
+![Paytm Project Image](./Project-Screenshots/5.PNG)
+![Paytm Project Image](./Project-Screenshots/6.PNG)
