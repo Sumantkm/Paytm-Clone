@@ -13,7 +13,7 @@
 - Got more knowledge on making **Responsive design** (All screen sizes).
 ***
 ## Time taken :
-- 12+ hours to complete this project. (Worth the time spent, Great learning!!!)
+- 14+ hours to complete this project. (Worth the time spent, Great learning!!!)
 
 ***
 ## Project screenshot(few) :
